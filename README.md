@@ -107,3 +107,16 @@
   </a>
 </div>
 
+<h2 align="center">
+  <b>Let’s build something amazing together!</b>
+</h2> 
+
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RishiByte&bg_color=000000&color=53f547&line=65f207&point=2c42ed&area=true&hide_border=true)](https://github.com/vtushar06/github-readme-activity-graph)
+
+
+</p>
+</div>
+
+<h1 align="center" >
+<img src="https://github.com/vtushar06/vtushar06/blob/output/github-snake.svg" alt="e" style="max-width: 100%;">
+</h1>
