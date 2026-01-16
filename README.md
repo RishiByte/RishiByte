@@ -39,6 +39,10 @@
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
       <br>Git
     </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
+    </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
@@ -46,6 +50,14 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>Github
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+      <br>VsCode
     </td>
   </tr>
 </table>
@@ -73,7 +85,7 @@
 
 ###
 <p align="center">
-  <a href="https://github.com/RishiByte/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=RishiByte&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="tushar stats" /></picture></a>
+  <a href="https://github.com/RishiByte/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=RishiByte&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="Rishi stats" /></picture></a>
   <a href="https://github.com/RishiByte/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=RishiByte&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RishiByte" alt="GitHub Streak" />
 </p>
