@@ -103,10 +103,8 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
-
-<h2 align="center">
-  <b>Let’s build something amazing together!</b>
-</h2> 
+<br>
+<br>
 
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RishiByte&bg_color=000000&color=53f547&line=65f207&point=2c42ed&area=true&hide_border=true)](https://github.com/vtushar06/github-readme-activity-graph)
 
