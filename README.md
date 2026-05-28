@@ -4,7 +4,7 @@
 </h3>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=600&lines=Front+End+Developers+%7C+Tech+Problem+Solver+%F0%9F%A4%94" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=600&lines=Front+End+Developer+%7C+Tech+Problem+Solver+%F0%9F%A4%94" alt="Typing SVG" /></a>
 </h1>
 
 <h2 align="center">
@@ -16,48 +16,105 @@
 
 # 👋 About Me
 
-<h3>Hi, I’m <b>Rishi Bhardwaj</b> – Driven by curiosity, I'm a Front-End Developer and AI enthusiast who builds scalable solutions and explores innovative tech to create real-world impact. I build tech solutions for real-world challenges. I specialize in scalable web apps and am constantly learning to craft impactful, AI-driven technology.</h3>
+<h3>Hi, I’m <b>Rishi Bhardwaj</b> — a frontend developer focused on building modern, interactive web apps with React and AI integrations. I enjoy open source, hackathons, and creating products that solve real student problems.
+
+Currently:
+- Building full-stack projects
+- Solving DSA in Python
+- Exploring open source
+- Learning system design</h3>
 
 ---
 
 
-# 💻 My favorite tools and technologies
-<div style="display: flex; align-items: flex-start; align: center">
+# 💻 Tech Stack
+
+<h3 align="center">Frontend</h3>
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React" />
+      <br>React
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+      <br>CSS3
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>Github
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-      <br>VsCode
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h3 align="center">Backend</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" />
+      <br>Express.js
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h3 align="center">Languages</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="C++" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>TypeScript
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h3 align="center">Tools</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="65" height="65" alt="Webpack" />
+      <br>Webpack
     </td>
   </tr>
 </table>
@@ -81,7 +138,95 @@
 <h2 align="center">
   <b>Let’s build something amazing together!</b>
 </h2> 
+# 🚀 Featured Projects
 
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+## 🌌 Poke Multiverse
+
+A Pokémon multiverse web app with character search, battle stats, and interactive UI powered by PokéAPI.
+
+### ⚡ Tech Stack
+`React` `Tailwind CSS` `API Integration`
+
+🔗 [Live Demo](https://pokii-multiverse.netlify.app/)  
+📂 [Repository](https://github.com/RishiByte/Pok-Multiverse)
+
+</td>
+
+<td width="50%">
+
+## 💪 The Iron Garage
+
+A modern fitness platform with workout plans, responsive UI, and clean animations.
+
+### ⚡ Tech Stack
+`React` `TypeScript` `Tailwind CSS` `Next.js 15 App Router`
+
+🔗 [Live Demo](https://theirongarage.netlify.app/)  
+📂 [Repository](https://github.com/RishiByte/The-Iron-Garage)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🤖 Discord Clone
+
+Real-time Discord-inspired chat application with modern UI and messaging features.
+
+### ⚡ Tech Stack
+`React` `Tailwind CSS`
+
+🔗 [Live Demo](https://discord-clone-rouge-one.vercel.app)  
+📂 [Repository](https://github.com/RishiByte/Discord-Clone)
+
+</td>
+
+<td width="50%">
+
+## 📚 Tap Tap Luffy
+
+Anime-inspired tapping game built with interactive gameplay and smooth UI.
+
+### ⚡ Tech Stack
+`JavaScript` 
+
+🔗 [Live Demo](https://tap-tap-luffy.vercel.app/)  
+📂 [Repository](https://github.com/RishiByte/TapTapLuffy)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br><br>
+# 🧠 Coding Profiles
+
+<p align="center">
+<a href="https://leetcode.com/u/_rishi1210_/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="https://codeforces.com/profile/_rishi1210_">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+<a href="https://github.com/RishiByte">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/rishibhardwaj-dev/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://x.com/Rizzzhiii">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+</p>
 
 ###
 <p align="center">
@@ -90,29 +235,17 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RishiByte" alt="GitHub Streak" />
 </p>
 
-###
+<br>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/rishi-bhardwaj-9b7371381/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/rbhardwaj1210/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/_rishi1210_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
 
-<h2 align="center">
-  <b>Let’s build something amazing together!</b>
-</h2> 
 
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RishiByte&bg_color=000000&color=53f547&line=65f207&point=2c42ed&area=true&hide_border=true)](https://github.com/vtushar06/github-readme-activity-graph)
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RishiByte&bg_color=000000&color=53f547&line=65f207&point=2c42ed&area=true&hide_border=true)](https://github.com/RishiByte/github-readme-activity-graph)
 
 
 </p>
 </div>
+
+
 
 <h1 align="center" >
 <img src="https://github.com/RishiByte/RishiByte/blob/output/github-snake.svg" alt="e" style="max-width: 100%;">
