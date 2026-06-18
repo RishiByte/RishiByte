@@ -250,7 +250,3 @@ Anime-inspired tapping game built with interactive gameplay and smooth UI.
 <h1 align="center" >
 <img src="https://github.com/RishiByte/RishiByte/blob/output/github-snake.svg" alt="e" style="max-width: 100%;">
 </h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RishiByte&label=Profile%20Views&color=ff0000&style=for-the-badge" alt="Profile Views" />
-</p>
