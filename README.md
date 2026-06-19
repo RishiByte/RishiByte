@@ -247,6 +247,6 @@ Anime-inspired tapping game built with interactive gameplay and smooth UI.
 
 
 
-<h1 align="center" >
-![Snake animation](https://raw.githubusercontent.com/RishiByte/RishiByte/output/snake-dark.svg)
-</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RishiByte/RishiByte/output/snake-dark.svg" alt="Snake animation" />
+</p>
