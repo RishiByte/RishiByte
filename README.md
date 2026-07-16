@@ -1,19 +1,45 @@
 <!-- Profile Header with GIF -->
-<h3 align="center">
-  <img src="./39d1683f-88fc-4db9-a82b-062015755122.jpg" width="700" height="400" alt="AI Dev GIF"/>
-</h3>
+<img align="left" src="https://i.pinimg.com/1200x/37/0f/e9/370fe9f34f9a03835b33bda4cc78dc07.jpg" width="320"/>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=600&lines=Full+Stack+Developer+%7C+Tech+Problem+Solver+%F0%9F%A4%94" alt="Typing SVG" /></a>
-</h1>
+```
+RishiByte@github
+-------------------------
+OS: macOS
+Host: Computer Science Student
+Kernel: Building products & open source 
+Uptime: Shipping projects daily 
+Shell: zsh
+Editor: VS Code
 
-<h2 align="center">
-  🤖 | ⚡ | 🎯 | 👨‍💻 | 🧠
-</h2>
-<img src="https://raw.githubusercontent.com/AryanVBW/AryanVBW/refs/heads/main/line.gif"/>
+Name: Rishi Bhardwaj
+Role: Full Stack Developer | Open Source Enthusiast
+Organization: Founder @Omnikon
+Focus: Developer Tools • AI • Web Development
 
----
+Languages:
+  TypeScript • JavaScript • Python • C++
 
+Frontend:
+  React • Next.js • HTML • CSS • Tailwind CSS
+
+Backend:
+  Node.js • Express.js • Prisma
+
+Databases:
+  PostgreSQL • MySQL • Redis • Supabase
+
+DevOps:
+  Docker • GitHub Actions • Vercel
+
+AI:
+  OpenAI API • Gemini API • Ollama
+
+Tools:
+  Git • GitHub • VS Code
+  Postman • Figma • npm • pnpm
+
+```
+<br>
 
 ## 👋 About Me
 
@@ -382,34 +408,4 @@ Anime-inspired tapping game built with interactive gameplay and smooth UI.
 </p>
 
 ###
-## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/RishiByte">
-    <img height="170" src="https://beautiful-github-homepage.vercel.app/api?username=RishiByte&hide_title=true&show_icons=true&theme=github_dark&include_all_commits=true&bg_color=000000&border_radius=12" />
-  </a>
-
-  <a href="https://github.com/RishiByte">
-    <img height="170" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=RishiByte&layout=compact&theme=github_dark&bg_color=000000&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RishiByte&theme=github-dark-blue&hide_border=true&background=000000&ring=58A6FF&fire=58A6FF&currStreakLabel=FFFFFF" />
-</p>
-
-<br>
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RishiByte&theme=github-dark&bg_color=000000&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
-</p>
-
-<br>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RishiByte/RishiByte/output/github-snake-dark.svg" alt="Snake animation" />
-</p>
