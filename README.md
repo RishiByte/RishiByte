@@ -382,23 +382,34 @@ Anime-inspired tapping game built with interactive gameplay and smooth UI.
 </p>
 
 ###
+## 📊 GitHub Stats
+
 <p align="center">
-  <a href="https://github.com/RishiByte/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=RishiByte&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="Rishi stats" /></picture></a>
-  <a href="https://github.com/RishiByte/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=RishiByte&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RishiByte" alt="GitHub Streak" />
+  <a href="https://github.com/RishiByte">
+    <img height="170" src="https://beautiful-github-homepage.vercel.app/api?username=RishiByte&hide_title=true&show_icons=true&theme=github_dark&include_all_commits=true&bg_color=000000&border_radius=12" />
+  </a>
+
+  <a href="https://github.com/RishiByte">
+    <img height="170" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=RishiByte&layout=compact&theme=github_dark&bg_color=000000&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RishiByte&theme=github-dark-blue&hide_border=true&background=000000&ring=58A6FF&fire=58A6FF&currStreakLabel=FFFFFF" />
 </p>
 
 <br>
 
-
-
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RishiByte&bg_color=000000&color=53f547&line=65f207&point=2c42ed&area=true&hide_border=true)](https://github.com/RishiByte/github-readme-activity-graph)
-
-
-</p>
-</div>
-
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RishiByte/RishiByte/output/github-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RishiByte&theme=github-dark&bg_color=000000&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
+</p>
+
+<br>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RishiByte/RishiByte/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
