@@ -4,7 +4,7 @@
 </h3>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=600&lines=Front+End+Developer+%7C+Tech+Problem+Solver+%F0%9F%A4%94" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=600&lines=Full+Stack+Developer+%7C+Tech+Problem+Solver+%F0%9F%A4%94" alt="Typing SVG" /></a>
 </h1>
 
 <h2 align="center">
@@ -14,85 +14,238 @@
 
 ---
 
-# 👋 About Me
 
-<h3>Hi, I’m <b>Rishi Bhardwaj</b> — a frontend developer focused on building modern, interactive web apps with React and AI integrations. I enjoy open source, hackathons, and creating products that solve real student problems.
+## 👋 About Me
 
-Currently:
-- Building full-stack projects
-- Solving DSA in Python
-- Exploring open source
-- Learning system design</h3>
+Hi, I'm **Rishi Bhardwaj**, a Computer Science student and software developer passionate about building developer tools, open-source projects, and scalable web applications.
+
+I enjoy turning ideas into polished products—from frontend interfaces to backend systems—while continuously improving my problem-solving and software engineering skills.
+
+### 🚀 What I'm Working On
+
+- 🏗️ Building full-stack applications with modern web technologies
+- ⚛️ Developing responsive, production-ready UIs using React & Next.js
+- 🤖 Exploring practical AI integrations in real-world applications
+- 🧩 Solving Data Structures & Algorithms in Python
+- 🌍 Contributing to open source and maintaining personal projects
+- 📚 Learning system design, scalable architectures, and backend engineering
+
+### 💡 Interests
+
+- Open Source
+- Hackathons
+- Developer Tools
+- Artificial Intelligence
+- System Design
+- UI/UX Engineering
+
+> I believe the best way to learn software engineering is by building products, contributing to open source, and solving real-world problems.
 
 ---
 
 
 # 💻 Tech Stack
 
+
 <h3 align="center">Frontend</h3>
+
 <table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-      <br>Bootstrap
-    </td>
-  </tr>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" />
+<br>React
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+<br>Next.js
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+<br>HTML5
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+<br>CSS3
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
+<br>Tailwind
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+<br>Vite
+</td>
+</tr>
 </table>
 
 <br>
 
 <h3 align="center">Backend</h3>
+
 <table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" />
-      <br>Express.js
-    </td>
-  </tr>
+<tr>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br>Node.js
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" />
+<br>Express
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
+<br>Prisma
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<h3 align="center">Database</h3>
+
+<table align="center">
+<tr>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+<br>PostgreSQL
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<br>MySQL
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br>MongoDB
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+<br>Redis
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
+<br>Supabase
+</td>
+
+</tr>
 </table>
 
 <br>
 
 <h3 align="center">Languages</h3>
+
 <table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="C++" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
-    </td>
-  </tr>
+<tr>
+
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
+</td>
+
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="TypeScript" />
+<br>TypeScript
+</td>
+
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
+<br>Python
+</td>
+
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" height="48" alt="C++" />
+<br>C++
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<h3 align="center">DevOps & Cloud</h3>
+
+<table align="center">
+<tr>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br>Docker
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
+<br>GitHub Actions
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+<br>Vercel
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br>Linux
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<h3 align="center">Tools</h3>
+
+<table align="center">
+<tr>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+<br>GitHub
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<br>VS Code
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+<br>Postman
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+<br>Figma
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="npm" />
+<br>npm
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=pnpm" width="48" height="48" alt="pnpm" />
+<br>pnpm
+</td>
+
+</tr>
 </table>
 
 <br>
